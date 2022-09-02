@@ -14,3 +14,11 @@ The trend should show that as the scale increases, the coupling strength decreas
 - 1, 2 and 3-loop running coupling expressions are plotted together.
 - The fixed data can be found on "Review of Particle Physics" by the "Particle Data Group"
 - plot reproduces the result in Figure 9.3 of PTEP, Vol. 2020, No. 8
+
+### glauber
+
+Simple Glauber model in Mathematica
+- include Optical and Monte-Carlo Glauber model
+- parameters are set to Gold (Au) 197
+- visualizations included
+
